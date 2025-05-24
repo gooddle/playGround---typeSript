@@ -40,11 +40,6 @@ console.log(person)
 const personName1 = "good"
 console.log(personName1) // good 반환
 
-
-personName = "good2"
-console.log(personName) // good2  반환
-
-
 // number
 const age1 = 15
 console.log(age1)// 15 반환
