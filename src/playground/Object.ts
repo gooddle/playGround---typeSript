@@ -1,6 +1,10 @@
 // 객체는 key:value 쌍으로 구성
 let object = { personName: "good", age: 10 };
 console.log(object); // { personName: 'good', age: 10 }
+console.log(Object.values(object))
+console.log(Object.keys(object))
+console.log(object.personName)
+console.log(object.age) //key 기반 조회
 
 // 배열 선언 및 요소 추가
 let array = [1, 2];

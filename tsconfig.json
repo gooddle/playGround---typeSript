@@ -6,7 +6,8 @@
     "forceConsistentCasingInFileNames": true,
     "strict": true,
     "skipLibCheck": true,
-    "outDir": "dist"
+    "outDir": "dist",
+    "lib": ["es2017", "dom"],  // lib 배열에 es2017 이상 포함
   },
   "include": ["src"]
 }
