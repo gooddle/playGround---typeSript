@@ -1,3 +1,5 @@
+
+
 /**
  * interface 선언 및 속성 선언
  */
@@ -64,3 +66,4 @@ class UsaTruck extends Truck {
 const truck2 = new UsaTruck("black","1",15)
 truck2.calAge()
 console.log(truck2)
+
